@@ -26,3 +26,5 @@
 email: i.krivonosov@yandex.ru
 
 Tg: @IvanKtrg
+
+![DSC04187](https://github.com/user-attachments/assets/054f3fb1-6dac-4abc-9068-a490e1ead56a)
